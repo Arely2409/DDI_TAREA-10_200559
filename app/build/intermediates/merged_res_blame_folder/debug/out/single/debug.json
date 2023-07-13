@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "C:\\Users\\PC-14\\.gradle\\daemon\\8.0\\edu.mx.ti.idgs.ddi.tarea07_200559.app-merged_res-73:\\drawable_tile_preview.png.flat",
+        "source": "C:\\Users\\PC-14\\.gradle\\daemon\\8.0\\edu.mx.ti.idgs.ddi.tarea07_200559.app-main-75:\\drawable\\tile_preview.png"
+    },
+    {
+        "merged": "C:\\Users\\PC-14\\.gradle\\daemon\\8.0\\edu.mx.ti.idgs.ddi.tarea07_200559.app-merged_res-73:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\PC-14\\.gradle\\daemon\\8.0\\edu.mx.ti.idgs.ddi.tarea07_200559.app-main-75:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\PC-14\\.gradle\\daemon\\8.0\\edu.mx.ti.idgs.ddi.tarea07_200559.app-merged_res-73:\\drawable_cielo.jpg.flat",
+        "source": "C:\\Users\\PC-14\\.gradle\\daemon\\8.0\\edu.mx.ti.idgs.ddi.tarea07_200559.app-main-75:\\drawable\\cielo.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PC-14\\.gradle\\daemon\\8.0\\edu.mx.ti.idgs.ddi.tarea07_200559.app-merged_res-73:\\drawable_img2.jpg.flat",
+        "source": "C:\\Users\\PC-14\\.gradle\\daemon\\8.0\\edu.mx.ti.idgs.ddi.tarea07_200559.app-main-75:\\drawable\\img2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PC-14\\.gradle\\daemon\\8.0\\edu.mx.ti.idgs.ddi.tarea07_200559.app-merged_res-73:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\PC-14\\.gradle\\daemon\\8.0\\edu.mx.ti.idgs.ddi.tarea07_200559.app-main-75:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "edu.mx.ti.idgs.ddi.tarea07_200559.app-merged_res-73:/drawable_sole.jpg.flat",
+        "source": "edu.mx.ti.idgs.ddi.tarea07_200559.app-main-75:/drawable/sole.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PC-14\\.gradle\\daemon\\8.0\\edu.mx.ti.idgs.ddi.tarea07_200559.app-merged_res-73:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\PC-14\\.gradle\\daemon\\8.0\\edu.mx.ti.idgs.ddi.tarea07_200559.app-main-75:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\PC-14\\.gradle\\daemon\\8.0\\edu.mx.ti.idgs.ddi.tarea07_200559.app-merged_res-73:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\PC-14\\.gradle\\daemon\\8.0\\edu.mx.ti.idgs.ddi.tarea07_200559.app-main-75:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\PC-14\\.gradle\\daemon\\8.0\\edu.mx.ti.idgs.ddi.tarea07_200559.app-merged_res-73:\\drawable_cli.png.flat",
+        "source": "C:\\Users\\PC-14\\.gradle\\daemon\\8.0\\edu.mx.ti.idgs.ddi.tarea07_200559.app-main-75:\\drawable\\cli.png"
+    },
+    {
+        "merged": "C:\\Users\\PC-14\\.gradle\\daemon\\8.0\\edu.mx.ti.idgs.ddi.tarea07_200559.app-merged_res-73:\\font_amaticbold.ttf.flat",
+        "source": "C:\\Users\\PC-14\\.gradle\\daemon\\8.0\\edu.mx.ti.idgs.ddi.tarea07_200559.app-main-75:\\font\\amaticbold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\PC-14\\.gradle\\daemon\\8.0\\edu.mx.ti.idgs.ddi.tarea07_200559.app-merged_res-73:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\PC-14\\.gradle\\daemon\\8.0\\edu.mx.ti.idgs.ddi.tarea07_200559.app-main-75:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC-14\\.gradle\\daemon\\8.0\\edu.mx.ti.idgs.ddi.tarea07_200559.app-merged_res-73:\\drawable-round_tile_preview.png.flat",
+        "source": "C:\\Users\\PC-14\\.gradle\\daemon\\8.0\\edu.mx.ti.idgs.ddi.tarea07_200559.app-main-75:\\drawable-round\\tile_preview.png"
+    },
+    {
+        "merged": "C:\\Users\\PC-14\\.gradle\\daemon\\8.0\\edu.mx.ti.idgs.ddi.tarea07_200559.app-merged_res-73:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\PC-14\\.gradle\\daemon\\8.0\\edu.mx.ti.idgs.ddi.tarea07_200559.app-main-75:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\PC-14\\.gradle\\daemon\\8.0\\edu.mx.ti.idgs.ddi.tarea07_200559.app-merged_res-73:\\font_lobster.ttf.flat",
+        "source": "C:\\Users\\PC-14\\.gradle\\daemon\\8.0\\edu.mx.ti.idgs.ddi.tarea07_200559.app-main-75:\\font\\lobster.ttf"
+    },
+    {
+        "merged": "edu.mx.ti.idgs.ddi.tarea07_200559.app-merged_res-73:/layout_activity_main.xml.flat",
+        "source": "edu.mx.ti.idgs.ddi.tarea07_200559.app-main-75:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC-14\\.gradle\\daemon\\8.0\\edu.mx.ti.idgs.ddi.tarea07_200559.app-merged_res-73:\\drawable_img4.jpg.flat",
+        "source": "C:\\Users\\PC-14\\.gradle\\daemon\\8.0\\edu.mx.ti.idgs.ddi.tarea07_200559.app-main-75:\\drawable\\img4.jpg"
+    }
+]

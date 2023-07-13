@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "edu.mx.ti.idgs.ddi.tarea07_200559.app-mergeDebugResources-71:/values-round-v23/values-round-v23.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\PC-14\\.gradle\\caches\\transforms-3\\db1018ccc9b37325951ca558f4f8e4ba\\transformed\\wear-1.2.0\\res\\values-round-v23\\values-round-v23.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,118,204",
+                        "endColumns": "62,85,79",
+                        "endOffsets": "113,199,279"
+                    }
+                },
+                {
+                    "source": "E:\\Tarea07_200559\\app\\src\\main\\res\\values-round\\strings.xml",
+                    "from": {
+                        "startLines": "1,7,3",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "16,290,93",
+                        "endLines": "1,11,6",
+                        "endColumns": "75,12,12",
+                        "endOffsets": "87,540,285"
+                    },
+                    "to": {
+                        "startLines": "5,6,11",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "284,360,615",
+                        "endLines": "5,10,14",
+                        "endColumns": "75,12,12",
+                        "endOffsets": "355,610,807"
+                    }
+                }
+            ]
+        }
+    ]
+}

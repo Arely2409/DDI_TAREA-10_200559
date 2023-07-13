@@ -1,0 +1,24 @@
+R_DEF: Internal format may change without notice
+local
+drawable cielo
+drawable cli
+drawable img2
+drawable img4
+drawable sole
+drawable tile_preview
+font amaticbold
+font lobster
+id clockTextView
+id saludar
+id temperaturaTextView
+layout activity_main
+mipmap ic_launcher
+string app_name
+string complication_label
+string hello_blank_fragment
+string hello_world
+string tile_label
+string title_activity_main
+string title_activity_presentation._main
+style AppNameStyle
+style AppTheme
